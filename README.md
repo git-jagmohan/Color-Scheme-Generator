@@ -38,7 +38,6 @@ The application uses **The Color API** to generate color palettes based on a sel
 
 https://git-jagmohan.github.io/Color-Scheme-Generator/
 
-
 ## 🌐 API Used
 
 This project uses **The Color API** to generate color schemes.
