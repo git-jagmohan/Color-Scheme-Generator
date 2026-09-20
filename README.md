@@ -36,7 +36,7 @@ The application uses **The Color API** to generate color palettes based on a sel
 
 ## 🌍 Live Demo
 
-🔗 [View Live Project](https://git-jagmohan.github.io/Color-Scheme-Generator/)
+https://git-jagmohan.github.io/Color-Scheme-Generator/
 
 
 ## 🌐 API Used
